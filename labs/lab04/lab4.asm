@@ -1,4 +1,4 @@
-; lab4.asm
+; hello.asm
 SECTION .data
 hello: DB 'Туйишиме Тьерри',10
 helloLen: EQU $-hello
