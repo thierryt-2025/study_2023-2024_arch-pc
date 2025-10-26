@@ -1,7 +1,7 @@
 FILES = $(patsubst %.md,%.docx,$(wildcard *.md)) \
         $(patsubst %.md,%.pdf,$(wildcard *.md))
 
-LATEX_FORMAT = 
+LATEX_FORMAT = --pdf-engine=xelatex -V mainfont="DejaVu Serif" -V lang=ru
 
 FILTER = --filter pandoc-crossref
 
