@@ -1,0 +1,23 @@
+# Screenshots Directory\n\nPlace all screenshots here with descriptive names.
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_1_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_2_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_3_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_4_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_5_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_6_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_7_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_8_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_9_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_10_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_11_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_12_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_13_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_14_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_15_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_16_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_17_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_18_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_19_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_20_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_21_2025-11-21_21-48-31.jpg
+/home/thierry/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab07/LAB07_Archive/screenshots/photo_22_2025-11-21_21-48-31.jpg
